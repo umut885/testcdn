@@ -215,5 +215,5 @@ var r=require("./bundle-url").getBundleURL;function e(r){Array.isArray(r)||(r=[r
 },{"./bundle-url":"Bh1I"}],"cUwr":[function(require,module,exports) {
 module.exports=function(t){return fetch(t).then(function(t){return t.text()})};
 },{}],0:[function(require,module,exports) {
-var b=require("z1Am");b.register("html",require("cUwr"));b.load([["index.html","s8zH"]]).then(function(){require("Focm");});
+var b=require("z1Am");b.register("html",require("cUwr"));b});
 },{}]},{},[0], null)
